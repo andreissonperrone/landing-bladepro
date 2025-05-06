@@ -11,10 +11,10 @@ Landing page criada para promover a **máquina de cortar cabelo BladePro**. Pág
 
 ## 📸 Preview
 
-![BladePro Preview](https://user-images.githubusercontent.com/00000000/preview.jpg) <!-- Você pode colocar um print aqui depois ou subir no repositório -->
+![BladePro Preview](https://www.google.com/imgres?q=corte%20de%20cabelo%20emote&imgurl=https%3A%2F%2Fimages.emojiterra.com%2Fgoogle%2Fandroid-12l%2F512px%2F1f487-2642.png&imgrefurl=https%3A%2F%2Femojiterra.com%2Fpt%2Fhomem-cortando-o-cabelo%2F&docid=Y6lyNup2dfOPGM&tbnid=dwVdMjb4PWYgqM&vet=12ahUKEwj5guCNyY2NAxWyHLkGHYYMNLMQM3oECBgQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwj5guCNyY2NAxWyHLkGHYYMNLMQM3oECBgQAA) <!-- Você pode colocar um print aqui depois ou subir no repositório -->
 
 Acesse online:  
-👉 **[https://andreissonperrone.github.io/landing-bladepro](https://andreissonperrone.github.io/landing-bladepro)**
+👉 **[https://github.com/andreissonperrone](https://github.com/andreissonperrone)**
 
 ---
 
